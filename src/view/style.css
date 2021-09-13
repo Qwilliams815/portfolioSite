@@ -1,0 +1,147 @@
+
+
+/* General Classes */
+
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    --clr-accent: #F06449;
+}
+
+h4 {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body {
+    height: auto;
+    background-image: url("/resources/dot-grid-custom.svg");
+    background-position-x: center;
+    background-size: 20em;
+    object-fit: none;
+    background-repeat: repeat;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Header */
+
+
+nav {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,0.7203256302521008) 0%, rgba(255,255,255,0) 100%);
+    display: flex;
+    /* border: solid 3px hotpink; */
+    width: 100%;
+    /* position: absolute; */
+    position: fixed;
+}
+
+ul {
+    width: inherit;
+    display: flex;
+    justify-content: end;
+
+}
+
+.icon {
+    padding: 1em .5em;
+    color: white;
+
+}
+
+.home-icon {
+    float: right;
+}
+
+
+section {
+    /* border: solid 3px red; */
+    
+}
+
+
+/* Hero Section */
+
+.hero {
+    position: relative;
+    height: 90vh;
+    width: 100%;
+}
+
+.hero-img {
+    background-image: url("/resources/hero-mobile.png");
+    position: absolute;
+    height: inherit;
+    width: inherit;
+    max-width: 1080px;
+    z-index: -1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.hero-content-wrapper {
+    height: inherit;
+    width: inherit;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-content {
+    position: absolute;
+    bottom: 20px;
+}
+
+.brian-williams-mobile {
+   position: relative;
+    width: 90%;
+    max-width: 535px;
+}
+
+.occupation-tag {
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    padding: 1.5em 0em;
+
+}
+
+.contact-button {
+    position: absolute;
+    margin: 5px;
+    bottom: 0px;
+    height: 45px;
+    width: 90px;
+    background-color: var(--clr-accent);
+    border: none;
+    font-size: 1em;
+    border-radius: 1px 20px 1px 20px;
+
+}
+
+
+/* About Section */
+
+.about-img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* footer {
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,0.7203256302521008) 0%, rgba(255,255,255,0) 100%);
+} */

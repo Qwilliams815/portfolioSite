@@ -1,0 +1,451 @@
+<svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="480" height="480" fill="#D0D0D0"/>
+<circle r="2" fill="#6E6E6F"/>
+<circle cx="24" r="2" fill="#6E6E6F"/>
+<circle cx="48" r="2" fill="#6E6E6F"/>
+<circle cx="72" r="2" fill="#6E6E6F"/>
+<circle cx="96" r="2" fill="#6E6E6F"/>
+<circle cx="120" r="2" fill="#6E6E6F"/>
+<circle cx="144" r="2" fill="#6E6E6F"/>
+<circle cx="168" r="2" fill="#6E6E6F"/>
+<circle cx="192" r="2" fill="#6E6E6F"/>
+<circle cx="216" r="2" fill="#6E6E6F"/>
+<circle cx="240" r="2" fill="#6E6E6F"/>
+<circle cx="264" r="2" fill="#6E6E6F"/>
+<circle cx="288" r="2" fill="#6E6E6F"/>
+<circle cx="312" r="2" fill="#6E6E6F"/>
+<circle cx="336" r="2" fill="#6E6E6F"/>
+<circle cx="360" r="2" fill="#6E6E6F"/>
+<circle cx="384" r="2" fill="#6E6E6F"/>
+<circle cx="408" r="2" fill="#6E6E6F"/>
+<circle cx="432" r="2" fill="#6E6E6F"/>
+<circle cx="456" r="2" fill="#6E6E6F"/>
+<circle cx="480" r="2" fill="#6E6E6F"/>
+<circle cy="24" r="2" fill="#6E6E6F"/>
+<circle cy="48" r="2" fill="#6E6E6F"/>
+<circle cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="72" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="24" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="48" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="72" r="2" fill="#6E6E6F"/>
+<circle cy="96" r="2" fill="#6E6E6F"/>
+<circle cy="168" r="2" fill="#6E6E6F"/>
+<circle cy="240" r="2" fill="#6E6E6F"/>
+<circle cy="312" r="2" fill="#6E6E6F"/>
+<circle cy="384" r="2" fill="#6E6E6F"/>
+<circle cy="456" r="2" fill="#6E6E6F"/>
+<circle cy="120" r="2" fill="#6E6E6F"/>
+<circle cy="264" r="2" fill="#6E6E6F"/>
+<circle cy="336" r="2" fill="#6E6E6F"/>
+<circle cy="408" r="2" fill="#6E6E6F"/>
+<circle cy="192" r="2" fill="#6E6E6F"/>
+<circle cy="480" r="2" fill="#6E6E6F"/>
+<circle cy="288" r="2" fill="#6E6E6F"/>
+<circle cy="144" r="2" fill="#6E6E6F"/>
+<circle cy="360" r="2" fill="#6E6E6F"/>
+<circle cy="432" r="2" fill="#6E6E6F"/>
+<circle cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="24" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="48" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="72" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="96" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="120" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="144" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="168" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="192" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="216" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="240" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="264" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="288" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="240" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="312" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="264" r="2" fill="#6E6E6F"/>
+<circle cx="312" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="384" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="336" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="408" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="288" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="360" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="432" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="336" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="360" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="384" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="408" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="432" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="456" cy="216" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="96" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="168" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="456" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="120" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="192" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="480" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="144" r="2" fill="#6E6E6F"/>
+<circle cx="480" cy="216" r="2" fill="#6E6E6F"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="480" height="480" fill="white"/>
+</clipPath>
+</defs>
+</svg>
