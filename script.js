@@ -12,3 +12,5 @@ contactButton.addEventListener("click", (e) => {
     contactModal.classList.toggle("hide-window");
     blur.classList.toggle("blur")
 });
+
+//
