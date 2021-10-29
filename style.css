@@ -36,7 +36,7 @@ h2 {
 
 body {
 	height: auto;
-	background-image: url("/resources/dot-grid-custom.svg");
+	background-image: url("resources/dot-grid-custom.svg");
 	background-position-x: center;
 	background-size: 20em;
 	object-fit: none;
@@ -188,7 +188,7 @@ textarea {
 	width: inherit;
 	z-index: -1;
 	border: double 15px transparent;
-	background-image: url("/resources/hero-mobile.png"),
+	background-image: url("resources/hero-mobile.png"),
 		linear-gradient(360deg, #000000 0%, rgba(163, 163, 163, 0.9) 87.01%);
 	border-top: none;
 	background-position: center;
@@ -220,7 +220,7 @@ textarea {
 
 .brian-williams-title {
 	height: 150px;
-	background-image: url("/resources/brian_williams_mobile.svg");
+	background-image: url("resources/brian_williams_mobile.svg");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -539,7 +539,7 @@ footer {
 	.hero-img {
 		max-width: inherit;
 		max-height: inherit;
-		background-image: url(/resources/hero.png),
+		background-image: url(resources/hero.png),
 			linear-gradient(360deg, #000000 0%, rgba(163, 163, 163, 0.9) 87.01%);
 		border-radius: 0px 0px 180px 0px;
 	}
@@ -565,7 +565,7 @@ footer {
 	}
 
 	.brian-williams-title {
-		background-image: url(/resources/brian_williams.svg);
+		background-image: url(resources/brian_williams.svg);
 		height: 300px;
 		background-size: contain;
 		background-repeat: no-repeat;
