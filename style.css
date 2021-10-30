@@ -68,6 +68,7 @@ body {
 .blur {
 	filter: blur(3px);
 	backdrop-filter: blur(1px);
+	-webkit-backdrop-filter: blur(1px);
 }
 
 /* Header */
@@ -88,7 +89,8 @@ nav {
 ul {
 	width: inherit;
 	display: flex;
-	justify-content: end;
+	justify-content: flex-end;
+
 }
 
 .icon {
@@ -126,7 +128,7 @@ ul {
 .contact-modal {
 	z-index: 1;
 	position: absolute;
-	margin: 100px;
+	margin-top: 130px;
 	padding: 100px 10px 10px 10px;
 	height: auto;
 	width: 90vw;
@@ -174,6 +176,10 @@ textarea {
 	font-size: 1em;
 }
 
+.contact-button h4 {
+	color: black;
+}
+
 /* Hero Section */
 
 .hero {
@@ -182,31 +188,6 @@ textarea {
 	width: 100%;	
 }
 
-<<<<<<< HEAD
-/* .hero-img {
-	position: absolute;
-    background-image: url("resources/hero-mobile.png");
-    
-	border: 20px solid;
-	border-image-source: linear-gradient(
-		360deg,
-		#000000 0%,
-		rgba(163, 163, 163, 0.9) 87.01%
-	);
-	border-top: none;
-    border-image-slice: 1;
-
-	height: inherit;
-	width: inherit;
-	z-index: -1;
-	background-size: cover;
-	background-repeat: no-repeat;
-    background-position: center top;
-    
-} */
-
-=======
->>>>>>> 712e30ca022899ee11d4899ce3f257b315754cd8
 .hero-img {
 	position: absolute;
 	height: inherit;
@@ -245,12 +226,7 @@ textarea {
 
 .brian-williams-title {
 	height: 150px;
-<<<<<<< HEAD
-	/* background-image: url(resources/Brian_Williams.svg); */
 	background-image: url("resources/brian_williams_mobile.svg");
-=======
-	background-image: url("/resources/brian_williams_mobile.svg");
->>>>>>> 712e30ca022899ee11d4899ce3f257b315754cd8
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -266,10 +242,6 @@ textarea {
 
 .down-arrow img {
 	transition: 0.3s;
-}
-
-.down-arrow img:hover {
-	transform: scale(1.2);
 }
 
 .contact-button {
@@ -489,7 +461,9 @@ strong {
 	margin: 5px;
 	border: solid 3px;
 	border-radius: 20px;
-
+	background: white;
+	color: black;
+	
 	transition: 0.2s;
 }
 
@@ -567,13 +541,9 @@ footer {
 	}
 
 	.hero-img {
-<<<<<<< HEAD
-		background-image: url(resources/hero.png),
-=======
 		max-width: inherit;
 		max-height: inherit;
-		background-image: url(/resources/hero.png),
->>>>>>> 712e30ca022899ee11d4899ce3f257b315754cd8
+		background-image: url(resources/hero.png),
 			linear-gradient(360deg, #000000 0%, rgba(163, 163, 163, 0.9) 87.01%);
 		border-radius: 0px 0px 180px 0px;
 	}
@@ -599,14 +569,8 @@ footer {
 	}
 
 	.brian-williams-title {
-<<<<<<< HEAD
 		background-image: url(resources/brian_williams.svg);
 		height: 300px;
-		/* background-image: url(resources/Brian_Williams.svg); */
-=======
-		background-image: url(/resources/brian_williams.svg);
-		height: 300px;
->>>>>>> 712e30ca022899ee11d4899ce3f257b315754cd8
 		background-size: contain;
 		background-repeat: no-repeat;
 		background-position: center;
@@ -625,6 +589,10 @@ footer {
 		bottom: 25px;
 		right: 50%;
 		transform: translateX(50%);
+	}
+
+	.down-arrow img:hover {
+		transform: scale(1.2);
 	}
 
 	.color-blob {
