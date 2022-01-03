@@ -13,6 +13,7 @@ const moreAboutText = document.querySelector(".more-text");
 const aboutTextStyles = window.getComputedStyle(moreAboutText);
 
 const blur = document.querySelector(".blur-wrapper")
+const parallax = document.querySelector(".parallax")
 
 contactModalX.addEventListener("click", (e) => {
     contactModal.classList.toggle("hide-window");
@@ -41,3 +42,8 @@ readMoreButton.addEventListener("click", (e) => {
         readMoreButtonText.innerHTML = 'Read Less';
     }
 })
+
+window.addEventListener("scroll", (e) => {
+    let offset = window.pageYOffset;
+    parallax.style.backgroundPositionY = offset * 0.4 + "px";
+  })
